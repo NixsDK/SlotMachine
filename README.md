@@ -2,8 +2,9 @@
 
 <!-- HEADER STYLE: CLASSIC -->
 <div align="center">
+  <img src="https://github.com/user-attachments/assets/c70cebc7-2fe1-4e2c-8a13-6243c262b256" width="30%" alt="Project Logo" />
+</div>
 
-<img src="SlotMachine.png" width="30%" style="position: relative; top: 0; right: 0;" alt="Project Logo"/>
 
 # SLOTMACHINE
 
