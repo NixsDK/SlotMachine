@@ -1,0 +1,19 @@
+{
+  "configurations": [
+    {
+      "name": "Mingw64",
+      "compilerPath": "C:/msys64/mingw64/bin/g++.exe",
+      "includePath": [
+        "C:/msys64/mingw64/include",
+        "C:/msys64/mingw64/include/c++/<your-gcc-version>",
+        "C:/msys64/mingw64/include/c++/<your-gcc-version>/x86_64-w64-mingw32",
+        "C:/msys64/mingw64/x86_64-w64-mingw32/include",
+        "${workspaceFolder}/**"
+      ],
+      "intelliSenseMode": "windows-gcc-x64",
+      "cStandard": "c17",
+      "cppStandard": "c++20"
+    }
+  ],
+  "version": 4
+}
